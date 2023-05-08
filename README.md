@@ -1,6 +1,7 @@
 # Neofetch
 - A python neofetch tool that works on multiple operating systems.
 - Linux, Mac, Windows, etc.
+- Currently still being worked on.
 ## Installation
 - either:
   - Install the exe file and place it in your system32 folder
