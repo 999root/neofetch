@@ -24,33 +24,34 @@
   neofetch in cmd
   ```
 ## Preview
-```
-C:\Users\?>neofetch
+- Windows CMD
+  ```
+  C:\Users\?>neofetch
 
 
 
-                                    ..,
-                        ....,,:;+ccllll
-            ...,,+:;  cllllllllllllllllll
-      ,cclllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll             os_name: Windows
-      llllllllllllll  lllllllllllllllllll             node_name:
-                                                      processor:
-      llllllllllllll  lllllllllllllllllll             release:
-      llllllllllllll  lllllllllllllllllll             version:
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      llllllllllllll  lllllllllllllllllll
-      `'ccllllllllll  lllllllllllllllllll
-            `' \*::  :ccllllllllllllllll
-                        ````''*::cll
-                                    ``
+                                      ..,
+                          ....,,:;+ccllll
+              ...,,+:;  cllllllllllllllllll
+        ,cclllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll             os_name: Windows
+        llllllllllllll  lllllllllllllllllll             node_name:
+                                                        processor:
+        llllllllllllll  lllllllllllllllllll             release:
+        llllllllllllll  lllllllllllllllllll             version:
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        llllllllllllll  lllllllllllllllllll
+        `'ccllllllllll  lllllllllllllllllll
+              `' \*::  :ccllllllllllllllll
+                          ````''*::cll
+                                      ``
 
 
 
-C:\Users\?>
-```
+  C:\Users\?>
+  ```
