@@ -24,5 +24,4 @@
   neofetch in cmd
   ```
 ## Preview
-- Windows
-  - ![WindowsTerminal_s5wgOQxBPH](https://github.com/999root/neofetch/assets/102857365/e63b2828-80c6-4192-9f75-db2ba92acc4b)
+- INPUT PREVIEW
