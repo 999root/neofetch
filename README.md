@@ -24,4 +24,33 @@
   neofetch in cmd
   ```
 ## Preview
-- INPUT PREVIEW
+```
+C:\Users\?>neofetch
+
+
+
+                                    ..,
+                        ....,,:;+ccllll
+            ...,,+:;  cllllllllllllllllll
+      ,cclllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll             os_name: Windows
+      llllllllllllll  lllllllllllllllllll             node_name:
+                                                      processor:
+      llllllllllllll  lllllllllllllllllll             release:
+      llllllllllllll  lllllllllllllllllll             version:
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      llllllllllllll  lllllllllllllllllll
+      `'ccllllllllll  lllllllllllllllllll
+            `' \*::  :ccllllllllllllllll
+                        ````''*::cll
+                                    ``
+
+
+
+C:\Users\?>
+```
