@@ -24,7 +24,7 @@
   neofetch in cmd
   ```
 ## Preview
-- Windows CMD
+- Windows CMD, Powershell/ Git Bash
   ```
   C:\Users\?>neofetch
 
