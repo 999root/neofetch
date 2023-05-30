@@ -1,4 +1,4 @@
-# Neofetch
+# Neofetch for w10/11 and linux
 - A python neofetch tool that works on multiple operating systems.
 - Linux, Mac, Windows, etc.
 - Currently still being worked on.
